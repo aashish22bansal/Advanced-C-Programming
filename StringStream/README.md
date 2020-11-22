@@ -2,6 +2,6 @@ A stringstream associates a string object with a stream allowing you to read fro
 
 Header File: sstream
 
-The output for the Basic Program for usng the stringstream is:
+The output for the Basic Program for using the stringstream is:
 
 ![Basic StringStream](Basic_StringStream.PNG)
